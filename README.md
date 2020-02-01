@@ -4,7 +4,7 @@
 Demo iOS Project for Code Path Program
 
 ### App Walk-though
-<img src="https://imgur.com/a/Cdmaq8z.gif" width=200><br>
+<img src="https://i.imgur.com/Yofz8fz.gif" width=200><br>
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
